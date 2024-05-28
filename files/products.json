@@ -1,0 +1,18 @@
+[
+  {
+    "prodCategory": "Drink",
+    "prodStatus": "Have",
+    "prodName": "Product 21",
+    "prodPrice": "1500",
+    "prodId": "21",
+    "prodCount": "2"
+  },
+  {
+    "prodCategory": "Antibiotics",
+    "prodStatus": "Have",
+    "prodName": "Product 22",
+    "prodPrice": "2000",
+    "prodId": "21",
+    "prodCount": "3"
+  }
+]
